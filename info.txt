@@ -1,0 +1,7 @@
+-desenvolupo la web desde windows (laptop curro). amb hugo instalat windows.
+-desde RDM copio l'estructura els fitxers nous tipics posts, o pages dins de content... i també les imatges... i també fitxer hugo.toml, ho copio tot desde
+RDM amb winscp entrada configurada de POMA i dins la mateixa estructura de directoris (sobreescrivint si cal...).
+
+-pararé i eliminaré actual contenidor web (docker stop web-busseig, docker rm web-busseig)
+-eliminaré la imatge: docker rmi web-busseig:0.9
+-desde POMA entraré al contenidor i executaré 'docker compose up -d'.

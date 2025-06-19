@@ -1,0 +1,51 @@
+baseURL = 'https://busseignew.abellot.net/'
+languageCode = 'en-es'
+title = 'sóc Balena'
+theme = 'beautifulhugo'
+
+[Params]
+    subtitle = "Afició al busseig recreatiu lent..."
+    logo = "img/socbalenacua.png"
+    mainSections = ["post","posts"]
+
+#
+# Defineixo el menú superior.
+#
+[[menu.main]]
+    name = "Articles del blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    identifier = "seccions"
+    name = "Menú Principal"
+    weight = 2
+
+[[menu.main]]
+    parent = "seccions"
+    name = "Punts Immersions"
+    url = "page/puntsimmersio"
+    weight = 1
+
+[[menu.main]]
+    parent = "seccions"
+    name = "Galeria Fotogràfica"
+    url = "page/galeriafotos"
+    weight = 2
+
+[[menu.main]]
+    parent = "seccions"
+    name = "Diari Busseig"
+    url = "https://sb-diaribusseig.abellot.net"
+    weight = 3
+
+[[menu.main]]
+    name = "Enllaços"
+    url = "page/links"
+    weight = 3
+
+[[menu.main]]
+    name = "Contacte"
+    url = "page/contacte"
+    weight = 4
+
