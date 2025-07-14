@@ -23,7 +23,7 @@ theme = 'beautifulhugo'
 
 [[menu.main]]
     parent = "seccions"
-    name = "Punts Immersions"
+    name = "Punts d'Immersió"
     url = "page/puntsimmersio"
     weight = 1
 
@@ -48,4 +48,3 @@ theme = 'beautifulhugo'
     name = "Contacte"
     url = "page/contacte"
     weight = 4
-
