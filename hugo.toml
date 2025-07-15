@@ -2,6 +2,7 @@ baseURL = 'https://busseignew.abellot.net/'
 languageCode = 'en-es'
 title = 'sóc Balena'
 theme = 'beautifulhugo'
+defaultContentLanguage = 'ca'
 
 [Params]
     subtitle = "Afició al busseig recreatiu lent..."
