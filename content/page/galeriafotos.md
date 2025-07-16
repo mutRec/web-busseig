@@ -82,6 +82,51 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/mar_menuda_04.jpg" >}}
 {{< /gallery >}}
 
+
+#### Col·lectiva CIB amb César Beretta (Sopita) a Ullastres II amb Tritón Diving (5 de Juny 2023)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/ullastresII_01.jpg" >}}
+  {{< figure thumb="" link="/img/ullastresII_02.jpg" >}}
+  {{< figure thumb="" link="/img/ullastresII_03.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió lliure amb César Beretta a La Seca amb Blanes Sub (7 de Maig 2023)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/laseca_01.jpg" >}}
+{{< /gallery >}}
+
+#### Bateig massiu amb família Mataró a Calella Palafrugell amb Poseidón Diving (18 de Setembre 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/bateig_massiu_mataro_01.jpg" >}}
+  {{< figure thumb="" link="/img/bateig_massiu_mataro_02.jpg" >}}
+  {{< figure thumb="" link="/img/bateig_massiu_mataro_03.jpg" >}}
+  {{< figure thumb="" link="/img/bateig_massiu_mataro_04.jpg" >}}
+  {{< figure thumb="" link="/img/bateig_massiu_mataro_05.jpg" >}}
+{{< /gallery >}}
+
+#### Col·lectiva CIB a Tossa amb Tossa Divers (21 d'Agost 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cib-tossa-01.jpg" >}}
+  {{< figure thumb="" link="/img/cib-tossa-02.jpg" >}}
+  {{< figure thumb="" link="/img/cib-tossa-03.jpg" >}}
+{{< /gallery >}}
+
+#### Col·lectiva CIB amb en Ricard, a Tossa, i amb Tossa Divers (Agost 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cib-tossa.jpg" >}}
+{{< /gallery >}}
+
+#### Sortida busseig amb en Miquel (propietari) de Tossa Divers (Agost 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/miquel_tossadivers.jpg" >}}
+{{< /gallery >}}
+
 #### Immersió amb la Sílvia (ex CIB) amb Blanes-Sub a "Els Bullents" (Diumenge 19 de Juny 2022)
 
 {{< gallery caption-effect="fade" >}}
