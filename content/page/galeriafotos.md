@@ -82,6 +82,22 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/mar_menuda_04.jpg" >}}
 {{< /gallery >}}
 
+#### Immersió amb la Sílvia (ex CIB) amb Blanes-Sub a "Els Bullents" (Diumenge 19 de Juny 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/bullents_01.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_02.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_03.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_04.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_05.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_06.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_07.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_08.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_09.jpg" >}}
+  {{< figure thumb="" link="/img/bullents_10.jpg" >}}
+{{< /gallery >}}
+
+
 #### Immersió amb Eduard Ferrer a Barcelona amb Vanas Dive de l'Oliver (7 Juny de 2020)
 
 {{< gallery caption-effect="fade" >}}
