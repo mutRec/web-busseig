@@ -37,11 +37,10 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/balconet-santpol_01.jpg" >}}
 {{< /gallery >}}
 
-#### 4rt bateig Balasch Ametlla de Mar i immersioneta a Cala Vidre (Octubre 2023)
+#### 4rt bateig Balasch Ametlla de Mar (Octubre 2023)
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="" link="/img/bateig-balasch-i-cala-vidre_01.jpg" >}}
-  {{< figure thumb="" link="/img/bateig-balasch-i-cala-vidre_02.jpg" >}}
 {{< /gallery >}}
 
 #### Col·lectiva CIB (Jose i Joana) amb César i Ricard. Cala Margarida (16 de Juliol 2023)
@@ -114,7 +113,8 @@ subtitle: Algunes fotos de les Immersions...
 #### 3er bateig Balasch a l'Ametlla de Mar i immersió successiva a Cala Vidre (2 d'Octubre de 2022)
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="" link="/img/cala-vidre-bateig-balasch.jpg" >}}
+  {{< figure thumb="" link="/img/cala-vidre-bateig-balasch_01.jpg" >}}
+  {{< figure thumb="" link="/img/cala-vidre-bateig-balasch_02.jpg" >}}
 {{< /gallery >}}
 
 #### Bateig massiu amb família Mataró a Calella Palafrugell amb Poseidón Diving (18 de Setembre 2022)
