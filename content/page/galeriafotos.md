@@ -97,6 +97,26 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/laseca_01.jpg" >}}
 {{< /gallery >}}
 
+#### Col·lectiva CIB lliure amb Ricard i Chema a Sa Tuna, Begur (13 Novembre 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/satuna1_01.jpg" >}}
+  {{< figure thumb="" link="/img/satuna1_02.jpg" >}}
+  {{< figure thumb="" link="/img/satuna1_03.jpg" >}}
+{{< /gallery >}}
+
+#### Col·lectiva CIB lliure amb Ricard i Chema a Sa Tuna, Begur (22 Octubre 2022)
+
+{{< youtube P39FNzaxvww >}}
+{{< youtube zvifsAzcBWE >}}
+{{< youtube sdVFS5Li9J8 >}}
+
+#### 3er bateig Balasch a l'Ametlla de Mar i immersió successiva a Cala Vidre (2 d'Octubre de 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cala-vidre-bateig-balasch.jpg" >}}
+{{< /gallery >}}
+
 #### Bateig massiu amb família Mataró a Calella Palafrugell amb Poseidón Diving (18 de Setembre 2022)
 
 {{< gallery caption-effect="fade" >}}
@@ -142,7 +162,6 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/bullents_10.jpg" >}}
 {{< /gallery >}}
 
-
 #### Immersió amb Eduard Ferrer a Barcelona amb Vanas Dive de l'Oliver (7 Juny de 2020)
 
 {{< gallery caption-effect="fade" >}}
@@ -182,10 +201,17 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/merce2019_jordi_Miro_Banes_12.jpg" >}}
 {{< /gallery >}}
 
-*tres mini videos a YouTube sobre aquell dia:*
+*tres mini videos a YouTube sobre aquell dia...*
+
+{{< youtube Kbl-7H8a2j0 >}}
+{{< youtube rqncmJ_f69g >}}
+{{< youtube _ocPr0kG14g >}}
+
+<!-- 
 * [mini-video-01](https://youtu.be/Kbl-7H8a2j0)
 * [mini-video-02](https://youtu.be/rqncmJ_f69g)
 * [mini-video-03](https://youtu.be/_ocPr0kG14g)
+-->
 
 #### Immersió amb Edu i Maria i Andreas Dive Tossa Mar Menuda (14 Setembre de 2019)
 
