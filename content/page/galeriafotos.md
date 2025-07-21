@@ -147,6 +147,13 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/miquel_tossadivers.jpg" >}}
 {{< /gallery >}}
 
+#### Col·lectiva CIB (Toni Arcas) amb en Ricard, Gemma, Iris a Tossa, i amb Tossa Divers (22 de Juliol 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/tossacib-juliol-01.jpg" >}}
+  {{< figure thumb="" link="/img/tossacib-juliol-02.jpg" >}}
+{{< /gallery >}}
+
 #### Immersió amb la Sílvia (ex CIB) amb Blanes-Sub a "Els Bullents" (Diumenge 19 de Juny 2022)
 
 {{< gallery caption-effect="fade" >}}
@@ -162,7 +169,129 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/bullents_10.jpg" >}}
 {{< /gallery >}}
 
-#### Immersió amb Eduard Ferrer a Barcelona amb Vanas Dive de l'Oliver (7 Juny de 2020)
+#### Col·lectiva CIB amb Sílvia, Àlex i Rubén amb Tritón Dive a Els Ullastres II a Llafranc (29 de Maig 2022)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_01.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_02.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_03.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_04.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_05.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_06.jpg" >}}
+  {{< figure thumb="" link="/img/cib-ullastres-II_07.jpg" >}}
+{{< /gallery >}}
+
+#### Col·lectiva CIB (Andreu Llamas) amb Sílvia, Jordi Clua, Iris a la Mar Menuda amb Tossa Divers (6 de Novembre de 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cib-marmenuda-nov_01.jpg" >}}
+{{< /gallery >}}
+
+#### Immesrió amb Eduard Ferrer a Illes Medes al Tascó Petit amb Unisub (12 d'Octubre 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/medes-edu-01.jpg" >}}
+  {{< figure thumb="" link="/img/medes-edu-02.jpg" >}}
+  {{< figure thumb="" link="/img/medes-edu-03.jpg" >}}
+  {{< figure thumb="" link="/img/medes-edu-04.jpg" >}}
+{{< /gallery >}}
+
+#### 2n bateig Balasch a l'Ametlla de Mar amb Plàncton Diving (3 d'Octubre 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/segon-bateig-balasch_01.jpg" >}}
+  {{< figure thumb="" link="/img/segon-bateig-balasch_02.jpg" >}}
+  {{< figure thumb="" link="/img/segon-bateig-balasch_03.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió per lliure amb la Sílvia i l'Àlex (CIB) a Illa Mateua (L'Escala a 18 de Setembre 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/mateua_01.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_02.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_03.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_04.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_05.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_06.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió per lliure amb Àlex (CIB) i Enric a La Seca (Blanes 12 de Setembre 2021)
+
+*Va suposar la tornada a l'aigua per primera vegada després de la cicatrització de la performació del tipà de l'oïda dret que vaig patir en l'immersió del passat més de Juny.*
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_01.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_02.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_03.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_04.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_05.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_06.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_07.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-laseca_08.jpg" >}}  
+{{< /gallery >}}
+
+#### Col·lectiva CIB (Roser) amb Àlex, Sílvia a Illa Mateua amb Mateua Dive (l'Escala 19 de Juny 2021)
+
+*Atenció!: Malgrat ser una fantàstica Immersió... va suposar la perforació del timpà de l'oïda dret, cosa que em va fer aturar per complet l'activitat fins el retrovament a l'aigua passat estiu i en la immersió següent lliure amb l'Àlex i l'Enric després de visitar dues vegades la Clínica Privada especialitzada del Dr. Clarós.*
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/mateua_cib_01.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_cib_02.jpg" >}}
+  {{< figure thumb="" link="/img/mateua_cib_03.jpg" >}}  
+{{< /gallery >}}
+
+#### Immersió amb Eduard Ferrer a Calella de Palafrugell a cala Port Pelegrí amb Poseidón Dive (13 de Juny 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/eduportpelegri_01.jpg" >}}
+  {{< figure thumb="" link="/img/eduportpelegri_02.jpg" >}}
+  {{< figure thumb="" link="/img/eduportpelegri_03.jpg" >}}  
+{{< /gallery >}}
+
+#### UCM (Ultra Clean Marathon) a Barcelona amb el CIB (Jordi Regàs) a l'Espigó del gas (Juny 2021)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/netejaCib-barna-01.jpg" >}}
+  {{< figure thumb="" link="/img/netejaCib-barna-02.jpg" >}}
+  {{< figure thumb="" link="/img/netejaCib-barna-03.jpg" >}}
+{{< /gallery >}}
+
+#### Bateig de Jordi Balasch a l'Ametlla de Mar amb la Eli de Plàncton Diving (4 d'Octubre 2020)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-01.jpg" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-02.jpg" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-03.jpg" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-04.jpg" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-05.jpg" >}}
+  {{< figure thumb="" link="/img/bateig-balasch-2020-06.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió que al final es un acompanyament de Bateig amb els de Blanes Sub (14 d'Agost 2020 16:30 de la tarda)
+
+*Immersió fallida, que per error del centre al final NO va haver-hi cap immersió i em van perdonar l'errada deixant-me acompanyar un bateig sense pagar res. Ho recordo, arribant sól a blanes i comentar que abans de tornar sec, m'era igual i que si ús plau em deixessin acompanyar a un bateig que és l'únic que tenien. Molt macos l'Hilai i en Dídac que em van deixar acompanyar al bateig i no em van cobrar res per no haver-me avisat a que es cancel·lava la immersió.*
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/blanes-arquet-bateig-01.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-arquet-bateig-02.jpg" >}}
+{{< /gallery >}}
+
+
+#### Col·lectiva del CIB (Toni Arcas i Roser) a la Mar Menuda de Tossa de Mar amb Andreas Diving (29 de Juliol 2020)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/cib-tossa-andreas-01.jpg" >}}
+  {{< figure thumb="" link="/img/cib-tossa-andreas-02.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió guiada amb Blanes Sub a La Seca punta de Santa Anna a Blanes (Dijous 9 de Juliol 2020)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="" link="/img/blanes-9jul-2020-01.jpg" >}}
+  {{< figure thumb="" link="/img/blanes-9jul-2020-02.jpg" >}}
+{{< /gallery >}}
+
+#### Immersió amb Eduard Ferrer a Barcelona amb Vanas Dive de l'Oliver (7 de Juny 2020)
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="" link="/img/vanas-edu-01.jpg" >}}
