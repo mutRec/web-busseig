@@ -254,6 +254,8 @@ subtitle: Algunes fotos de les Immersions...
   {{< figure thumb="" link="/img/netejaCib-barna-01.jpg" >}}
   {{< figure thumb="" link="/img/netejaCib-barna-02.jpg" >}}
   {{< figure thumb="" link="/img/netejaCib-barna-03.jpg" >}}
+  {{< figure thumb="" link="/img/neteja-cib-barna-01.png" >}}
+  {{< figure thumb="" link="/img/neteja-cib-barna-02.png" >}}
 {{< /gallery >}}
 
 #### Bateig de Jordi Balasch a l'Ametlla de Mar amb la Eli de Plàncton Diving (4 d'Octubre 2020)
