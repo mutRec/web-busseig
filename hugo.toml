@@ -2,7 +2,7 @@ baseURL = 'https://busseignew.abellot.net/'
 languageCode = 'en-es'
 title = 'sóc Balena'
 theme = 'beautifulhugo'
-defaultContentLanguage = 'ca'
+defaultContentLanguage = 'en'
 
 [Params]
     subtitle = "Afició al busseig recreatiu lent..."
@@ -13,9 +13,16 @@ defaultContentLanguage = 'ca'
 # Defineixo el menú superior.
 #
 [[menu.main]]
+    identifier ="Articles"
     name = "Articles del blog"
     url = ""
     weight = 1
+
+[[menu.main]]
+    parent = "Articles"
+    name = "Tots els articles"
+    url = "page/totselsposts"
+    weight = 2
 
 [[menu.main]]
     identifier = "seccions"
