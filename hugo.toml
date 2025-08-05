@@ -1,8 +1,9 @@
-baseURL = 'https://busseignew.abellot.net/'
+baseURL = 'https://busseig.abellot.net/'
 languageCode = 'en-es'
 title = 'sóc Balena'
 theme = 'beautifulhugo'
 defaultContentLanguage = 'en'
+buildFuture = true
 
 [Params]
     subtitle = "Afició al busseig recreatiu lent..."
