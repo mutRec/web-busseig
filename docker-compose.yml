@@ -7,3 +7,5 @@ services:
     container_name: web-busseig
     ports:
       - "85:80"
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
