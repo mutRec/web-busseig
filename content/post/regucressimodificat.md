@@ -7,6 +7,11 @@ tags: ["Material", "Cressi"]
 
 Com comentàva en l'article anterior, a finals d'aquest passat Agost vaig adquirir una botelleta d'acer de 6L. Aquesta havía de passar la prova hidrostàtica així com la visual, és per això, que vaig passar com sempre a visitar a en jordi de Rovisub. Dit i fet, se la va quedar i em va dir que feia molt bona pinta, i que per 60€ estava de puta mare. Deixada l'ampolleta vaig anar de vacances 10 dies a Galícia. 
 
+{{<gallery caption-effect="fade">}}
+ {{< figure thumb="" link="/img/botella6L_01.jpg">}}
+ {{< figure thumb="" link="/img/botella6L_02.jpg">}}
+{{</gallery>}}
+
 És clar, la idea era que amb aquesta nova ampolleta, al tenir griferia tipus DIN podria perfectament omplir-se a qualsevol centre de busseig així com a botiga sense haver de fer ús de l'adaptador ó carregar-se a través d'una ampolla i NO directament del compressor. Millor!!! (costat de casa, freatic, badal sub 100% plena, etc...).
 
 Igualment, un altre tema important que vàrem parlar amb en Jordi era que podria fer servir el regulador Cressi que ja tenia i inclús modificar-lo per desconnectar de la primera etap el latiguillo del Jacket així com l'Octopus. Comentant-li a en Jordi mentre li deixava l'ampolla, això em va dir que ho podía fer jo perfectament, que si volia m'ho feia ell, però que podría perfectament fer-ho jo.
