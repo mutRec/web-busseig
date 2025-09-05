@@ -105,6 +105,7 @@ div.panel-body a.list-group-item {
   border: none;
   font-size: 16px;
 }
+
 div.panel-group .panel {
     border-radius: 0;
 }
@@ -173,13 +174,15 @@ figure:not(.dark) img, img.white {
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 15px;
-  letter-spacing: .5px;
+  letter-spacing: 0.5px;
 }
 
+/* Color fonts del menú superior */
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  /*color: #404040;*/
+  color: #022a44;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -272,9 +275,10 @@ figure:not(.dark) img, img.white {
   display: none;
 }
 
+/* tamany logotip soc balena */
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
+    width: 110px;
     margin-top: -50px;
   }
 
@@ -321,7 +325,7 @@ figure:not(.dark) img, img.white {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
-    text-align: center;
+    text-align: left;
   }
   .navbar-custom .nav .navlinks-container:hover {
     background: #eee;
