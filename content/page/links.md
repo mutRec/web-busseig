@@ -55,7 +55,7 @@ Normals. Correctes.
 * [Windguru](https://www.windguru.cz/48892)
 * [Predicció Platges](https://www.meteo.cat/prediccio/platges) (Meteocat)
 * [Previsió Marítima](http://www.aemet.es/es/eltiempo/prediccion/maritima) (Aemet)
-* [Temperatura Aigua Barcelona](http://www.aemet.es/es/eltiempo/prediccion/maritima)
+* [Temperatura Aigua Sant Pol de Mar](https://seatemperature.info/es/sant-pol-de-mar-temperatura-del-agua-del-mar.html)j (Sea Temperature)
 * [Temperatura Aigua Barcelona](https://marbcn.blogspot.com/) (Diego Lázaro)
 
 ### Centres Mèdics
