@@ -21,7 +21,7 @@ Blog personal de busseig recreatiu - https://busseig.abellot.net/
 2. Executar el servidor de desenvolupament:
 
 ```bash
-hugo server
+hugo server -D
 ```
 
 ## Desplegament amb Docker
