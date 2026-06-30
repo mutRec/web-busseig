@@ -1,0 +1,11 @@
+services:
+  web-busseig:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: web-busseig:0.9
+    container_name: web-busseig
+    ports:
+      - "85:80"
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
