@@ -1,12 +1,22 @@
-<div class="gallery">
+{{ $id := .Page.Scratch.Get "gallery_count" | default 0 }}
+{{ .Page.Scratch.Set "gallery_count" (add $id 1) }}
+
+<div class="gallery" data-gallery="{{ $id }}">
   {{ .Inner }}
+</div>
+
+<div id="lightbox-{{ $id }}" class="lightbox-overlay" style="display:none">
+  <button class="lightbox-close" aria-label="Tancar">&times;</button>
+  <button class="lightbox-prev" aria-label="Anterior">&#10094;</button>
+  <button class="lightbox-next" aria-label="Següent">&#10095;</button>
+  <img class="lightbox-img" src="" alt="">
 </div>
 
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
   margin: 20px 0;
 }
 
@@ -17,12 +27,135 @@
 
 .gallery img {
   width: 100%;
-  height: auto;
+  height: 200px;
+  object-fit: cover;
   border-radius: 6px;
-  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
 .gallery img:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
+  opacity: 0.85;
+}
+
+.lightbox-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox-img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 4px;
+  object-fit: contain;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2.5rem;
+  cursor: pointer;
+  line-height: 1;
+  z-index: 10001;
+}
+
+.lightbox-prev,
+.lightbox-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.8rem 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  z-index: 10001;
+  transition: background-color 0.2s ease;
+}
+
+.lightbox-prev:hover,
+.lightbox-next:hover {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.lightbox-prev {
+  left: 1rem;
+}
+
+.lightbox-next {
+  right: 1rem;
 }
 </style>
+
+<script>
+(function() {
+  var galleryId = {{ $id }};
+  var overlay = document.getElementById('lightbox-' + galleryId);
+  var imgEl = overlay.querySelector('.lightbox-img');
+  var images = [];
+  var current = 0;
+
+  var figures = document.querySelectorAll('[data-gallery="' + galleryId + '"] figure a');
+  for (var i = 0; i < figures.length; i++) {
+    images.push(figures[i].getAttribute('data-full'));
+    figures[i].addEventListener('click', (function(idx) {
+      return function(e) {
+        e.preventDefault();
+        current = idx;
+        show();
+      };
+    })(i));
+  }
+
+  function show() {
+    imgEl.src = images[current];
+    overlay.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+  }
+
+  function hide() {
+    overlay.style.display = 'none';
+    document.body.style.overflow = '';
+  }
+
+  function prev() {
+    current = (current - 1 + images.length) % images.length;
+    imgEl.src = images[current];
+  }
+
+  function next() {
+    current = (current + 1) % images.length;
+    imgEl.src = images[current];
+  }
+
+  overlay.querySelector('.lightbox-close').addEventListener('click', hide);
+  overlay.querySelector('.lightbox-prev').addEventListener('click', prev);
+  overlay.querySelector('.lightbox-next').addEventListener('click', next);
+
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) hide();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (overlay.style.display !== 'flex') return;
+    if (e.key === 'Escape') hide();
+    if (e.key === 'ArrowLeft') prev();
+    if (e.key === 'ArrowRight') next();
+  });
+})();
+</script>

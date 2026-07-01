@@ -1,5 +1,9 @@
+{{ $thumb := .Get "thumb" }}
+{{ $link := .Get "link" }}
+{{ $src := $link }}
+{{ with $thumb }}{{ $src = replaceRE "(\\.[^.]+)$" (printf "%s$1" .) $link }}{{ end }}
 <figure>
-  <a href="{{ .Get "link" }}">
-    <img src="{{ .Get "link" }}" alt="">
+  <a href="{{ $link }}" data-full="{{ $link }}">
+    <img src="{{ $src }}" alt="" loading="lazy">
   </a>
 </figure>

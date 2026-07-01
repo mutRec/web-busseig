@@ -1,5 +1,5 @@
 ---
-title: Tornada a l'aigua...
+title: Tornada a l'aigua
 subtitle: Nova temporada!
 date: 2021-04-30
 tags: ["Conferències"]
