@@ -6,14 +6,14 @@ Blog personal de busseig recreatiu - https://busseig.abellot.net/
 
 - **Hugo** - Static site generator
 - **Tema**: BeautifulHugo
-- **Docker** + **Nginx** per desplegament
+- **Docker** + **Nginx** per desplegament de la web
 
 ## Contingut
 
-- 62 articles sobre busseig recreatiu
+- Articles sobre busseig recreatiu viscut pel litoral català
 - Punts d'immersió: Costa Brava i litoral català
 - Galeria fotogràfica
-- Diari de busseig
+- Accés al Diari de busseig (app sócBalena)
 
 ## Desenvolupament local
 
@@ -21,7 +21,7 @@ Blog personal de busseig recreatiu - https://busseig.abellot.net/
 2. Executar el servidor de desenvolupament:
 
 ```bash
-hugo server -D  >> desde el mateix windows desde directori base projecte.
+hugo server -D - desde el mateix windows desde directori base projecte.
 ```
 
 ## Desplegament amb Docker
