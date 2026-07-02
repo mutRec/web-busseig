@@ -3,6 +3,14 @@ title: Galeria Fotogràfica
 subtitle: Algunes fotos de les Immersions...
 ---
 
+#### Immersioneta per lliure. Balconet de Sant Pol de Mar (30 de Maig i 28 de Juny de 2026)
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/balconet_01.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/balconet_02.jpg" >}}
+{{< /gallery >}}
+
+
 #### Immersioneta per lliure. Punta de Santa Anna a Blanes (29 de Juny de 2025)
 
 {{< gallery caption-effect="fade" >}}
