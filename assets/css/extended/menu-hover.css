@@ -6,5 +6,5 @@
 
 .menu a:hover {
     background-color: var(--tertiary);
-    color: var(--theme);
+    color: var(--primary);
 }
