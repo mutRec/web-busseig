@@ -5,7 +5,7 @@ subtitle: Llocs i Recons pel busseig!
 
 ## Zones i Llocs per la Immersió
 
-Aquesta pàgina pretén ser un arxiu recopilatori dels punts d’immersió més coneguts que podrem trobar a la costa brava i litoral Català.
+Aquesta pàgina pretén ser un arxiu recopilatori dels punts d’immersió més coneguts que podrem trobar a la costa brava i litoral Català. Especialment també, zones fàcils de platja per un busseig minimalista i de molt poca profunditat (màxim 12m).
 
 ## Costa Brava
 
