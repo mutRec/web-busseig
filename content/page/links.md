@@ -3,7 +3,7 @@ title: Enllaços
 subtitle: Informació externa adicional
 ---
 
-### Clubs, Associacions, Projectes, Entitats
+### Clubs, Associacions, Projectes i Entitats
 
 * [Club Immersió Biologia - CIB](https://www.cibsub.cat/)
 * [S'Agulla](https://sagulla.org/)
