@@ -10,7 +10,6 @@ subtitle: Informació externa adicional
 * [Empordà Mar](https://empordamar.com/projectes/)
 * [Natura Costa Brava](https://natura.costabrava.org/)
 * [La Costa Brava platges i cales](https://costabrava.org/que-fer/platges-i-cales)
-* [Stop Finning!](https://www.stop-finning-eu.org/es/)
 
 ### Webcams
 
