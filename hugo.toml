@@ -38,7 +38,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Diari Busseig"
-    url = "https://sb-diaribusseig.abellot.net"
+    url = "https://socbalena.abellot.net"
     weight = 4
 
 [[menu.main]]
