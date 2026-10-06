@@ -1,4 +1,4 @@
-baseURL = 'https://busseig.abellot.net/'
+baseURL = 'https://web-busseig.pages.dev/'
 languageCode = 'ca'
 title = 'sóc Balena'
 theme = 'PaperMod'
